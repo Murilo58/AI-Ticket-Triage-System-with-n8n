@@ -20,7 +20,7 @@ O fluxo inclui:
 
 ## Formulário de abertura de tickets
 
-![Formulário](./images/formulário.png)
+![Formulário](./imagem/formulario.png)
 
 ---
 
